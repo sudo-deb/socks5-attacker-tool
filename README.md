@@ -34,6 +34,9 @@ https://github.com/user-attachments/assets/c82cf493-0b4e-4004-8a4d-1304c32207f6
 
 Install with:
 ```bash
+git clone https://github.com/sudo-deb/socks5-attacker-tool.git
+```
+```bash
 pip install -r requirements.txt
 ```
 
