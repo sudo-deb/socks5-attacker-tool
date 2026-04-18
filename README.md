@@ -39,6 +39,10 @@ git clone https://github.com/sudo-deb/socks5-attacker-tool.git
 ```bash
 pip install -r requirements.txt
 ```
+```bash
+python lostdos.py
+```
+
 
 ### Proxy Configuration
 
