@@ -1,0 +1,6 @@
+aiohttp
+aiohttp-socks
+colorama
+tqdm
+rich
+cython
