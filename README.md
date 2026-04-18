@@ -15,7 +15,6 @@ A high-performance HTTP load testing tool with SOCKS5 proxy support. Test your o
 - ✅ **Real-time Monitoring** - Live request log with color-coded responses
 - ✅ **HTTP Status Filtering** - Logs only HTTP 200 (green) and HTTP 500 (magenta)
 - ✅ **Progress Tracking** - Visual progress indicator during attack
-- ✅ **ASCII Art Banner** - Stylized "C" display during operation
 - ✅ **Round-based Testing** - Continuous testing with configurable delays
 
 ## 📋 Requirements
