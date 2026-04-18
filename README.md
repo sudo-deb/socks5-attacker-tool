@@ -1,4 +1,5 @@
 
+
 # 🔥 LOST SOCKS5 TOOL
 
 A high-performance HTTP load testing tool with SOCKS5 proxy support. Test your own web server's resilience with concurrent connections through multiple proxies.
@@ -28,7 +29,7 @@ rich
 cython (optional, for compilation)
 ```
 
-
+https://github.com/user-attachments/assets/c82cf493-0b4e-4004-8a4d-1304c32207f6
 
 # ▶️ Installation
 
