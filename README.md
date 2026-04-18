@@ -10,6 +10,8 @@ This socks5 tool just for experiment and trying our server. DO NOT USE FOR ILLEG
 
 🪄 Source IP Masking , virtual new agent proxies.
 
+https://cdn.discordapp.com/attachments/1494904352203345940/1494905633839775888/Video_Project_2.mp4?ex=69e44edd&is=69e2fd5d&hm=d55c4a6c471d2eff767fcc4a8a27f7bfa95b1f14c1800eb71006c46be15e62bd&
+
 
 ⚠️ We strongly advise against any misuse of these shared files; we are not responsible for any consequences that may arise as a result. These shared files are intended solely for educational and experimental purposes.
 
